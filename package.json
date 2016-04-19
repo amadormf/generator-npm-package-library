@@ -1,24 +1,28 @@
 {
-  "name": "generator-npm-package",
-  "version": "1.0.1",
-  "description": "Yeoman generator for NPM packages",
-  "homepage": "https://github.com/aribouius/generator-npm-package",
+  "name": "generator-npm-package-library",
+  "version": "1.0.0",
+  "description": "Yeoman generator for NPM package, with babel stage 0, eslint configuration of airbnb",
+  "homepage": "https://github.com/amadormf/generator-npm-package-library",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aribouius/generator-npm-package.git"
+    "url": "https://github.com/amadormf/generator-npm-package-library.git"
   },
   "bugs": {
-    "url": "https://github.com/aribouius/generator-npm-package/issues"
+    "url": "https://github.com/amadormf/generator-npm-package-library/issues"
   },
   "files": [
     "generators/app"
   ],
-  "author": "Ari Bouius <aribouius@gmail.com>",
+  "author": "Amador Mateo<amateofernandez@gmail.com>",
   "license": "MIT",
   "keywords": [
     "yeoman",
     "generator",
-    "yeoman-generator"
+    "yeoman-generator",
+    "babel-stage0",
+    "eslint-airbnb",
+    "package",
+    "module"
   ],
   "dependencies": {
     "chalk": "^1.1.1",
