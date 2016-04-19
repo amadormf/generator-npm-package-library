@@ -1,5 +1,7 @@
-# generator-npm-package
+# generator-npm-package-library
 An opinionated [Yeoman](http://yeoman.io) generator for npm packages.
+
+This is a fork of [aribouius/generator-npm-package](https://github.com/aribouius/generator-npm-package for add some configuration)
 
 ## Installation
 ```bash
